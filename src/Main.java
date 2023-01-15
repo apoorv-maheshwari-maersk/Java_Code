@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,4 +13,4 @@ public class Main {
 
         System.out.printf("Name in object myAccount is: %n%s%n", myAccount.getName());
     }
-}
+}*/
