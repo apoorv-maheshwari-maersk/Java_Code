@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class Addition {
    public static void main(String[] arg){
       Scanner input = new Scanner (System.in);
@@ -18,3 +18,4 @@ public class Addition {
       System.out.printf("Sum is %d%n", sum);
    }
 }
+*/
